@@ -21,5 +21,6 @@
         <Label Grid.Column="0" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Right">Password:</Label>
         <TextBox Grid.Column="1" Grid.Row="1" VerticalAlignment="Center"  Height="30"/>
         <Button Grid.Column="1" Grid.Row="2" FontWeight="Bold" HorizontalAlignment="Center" Width="100" Height="30" Content="Login"/>
+        <Label Grid.Column="0" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Right">Office:</Label>
     </Grid>
 </Window>
